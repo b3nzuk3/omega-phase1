@@ -1,0 +1,13 @@
+body{
+  background-color: #141414;
+  text-align: center;
+}
+
+.carousel-item{
+  height:auto;
+  width:auto;
+}
+
+#contacts{
+  padding: 7% 15%;
+}
