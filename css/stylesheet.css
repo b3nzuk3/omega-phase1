@@ -1,13 +1,52 @@
-body{
+body {
   background-color: #141414;
   text-align: center;
 }
 
-.carousel-item{
-  height:auto;
-  width:auto;
+h1{
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
 }
 
-#contacts{
-  padding: 7% 15%;
+h3 {
+  color: #040303;
+  padding-bottom: 30px;
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
+
+  font-size: 3.5rem;
+  letter-spacing: 1px;
+
+}
+
+.carousel-item {
+  height: auto;
+  width: auto;
+}
+
+#contacts {
+  background-color: #461111;
+  padding: 2.2% 15% 1%;
+  margin-bottom: 0;
+}
+
+.contact-icons {
+  padding-left: 30px;
+  font-size: 2rem;
+}
+
+
+#intro{
+    padding: 2.2% 15% 1%;
+
+    color: #FFBD69;
+
+}
+
+.copyright {
+  padding-top: 50px;
+  color: #040303;
+  font-weight: bold;
+  font-size: 1.2rem
+
 }
