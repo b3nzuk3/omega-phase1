@@ -3,10 +3,46 @@ body {
   text-align: center;
 }
 
+.demon{
+color: #FFBD69;
+
+}
+
+.slayer{
+color: #C40018;
+}
+
+.corps{
+  color: #2666CF;
+}
+
+
 h1 {
   font-family: 'League Gothic', sans-serif;
   font-style: italic;
   padding-bottom: 15px;
+  font-size: 5rem;
+  color: #EEEDDE;
+}
+
+h2 {
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
+  font-size: 3rem;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.zen {
+  color: #FFBD69;
+}
+
+.tanj {
+  color: #C40018;
+}
+
+.inos {
+  color: #2666CF;
 }
 
 h3 {
@@ -25,7 +61,7 @@ h3 {
 
 #contacts {
   background-color: #461111;
-  padding: 2.2% 15% 1%;
+  padding: 2.2% 20% 1%;
   margin-bottom: 0;
 }
 
@@ -35,8 +71,7 @@ h3 {
 }
 
 #intro {
-  padding: 2.2% 15% 1%;
-  color: #FFBD69;
+  padding: 2.2% 20% 1%;
 }
 
 .zen-intro {
@@ -52,4 +87,9 @@ h3 {
   color: #040303;
   font-weight: bold;
   font-size: 1.2rem
+}
+
+.characters {
+  border-radius: 100%;
+  padding-bottom: 50px;
 }
