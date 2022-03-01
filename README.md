@@ -7,7 +7,7 @@ This application or web app is a story telling one that takes its user to anothe
 You just have to click on the web app link and all is done. No complications, just need to be able to read and dare to imagine
 ## Other Projects
 My first somewhat. Project alpha
-https://github.com/b3nzuk3/Yosh-.git
+https://github.com/b3nzuk3/project-alpha
 ## Known Bugs
 The site might have an update in the near future but as for now no challenges.
 ## Technologies Used
