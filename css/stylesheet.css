@@ -33,6 +33,15 @@ h2 {
   padding-bottom: 10px;
 }
 
+.contact-about{
+  color: #FFE162;
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
+  font-size: 3rem;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
 .zen {
   color: #FFBD69;
 }
@@ -47,7 +56,40 @@ h2 {
 
 h3 {
   color: #040303;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
+  font-size: 3.5rem;
+  letter-spacing: 1px;
+}
+h4{
+  color: #5463FF;
+  padding-bottom: 10px;
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+}
+
+.project-description{
+  color: #B8FFF9;
+  padding-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+
+}
+
+.project-inosuke{
+  margin-bottom: 70px;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+
+.Project{
+  color: #FFD365;
+  padding-bottom: 10px;
   font-family: 'League Gothic', sans-serif;
   font-style: italic;
   font-size: 3.5rem;
@@ -57,6 +99,10 @@ h3 {
 .carousel-item {
   height: auto;
   width: auto;
+}
+
+.project-sec{
+  padding: 50px 0 50px;
 }
 
 #contacts {
@@ -82,6 +128,15 @@ h3 {
   font-weight: 500;
 }
 
+
+.project-about{
+  color: #D1D1D1;
+  padding-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
 .copyright {
   padding-top: 50px;
   color: #040303;
@@ -92,4 +147,8 @@ h3 {
 .characters {
   border-radius: 100%;
   padding-bottom: 50px;
+}
+
+.xss{
+  padding-bottom: 20px;
 }
